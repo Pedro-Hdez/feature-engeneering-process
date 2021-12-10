@@ -1,0 +1,9 @@
+Column name,Description,Units
+id,Platform id on 'platforms' endpoint at IGDB database,Integer
+platform,Name of the platform,String
+version,Name of the platform version,String
+category,Type of platform,String
+generation,Video games generation in which the platform was released,Integer
+platform_family,Platform publisher,String
+region,Region of the World where the platform was released,String
+release_date,Release date of the platform,Datetime

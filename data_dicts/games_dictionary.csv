@@ -1,0 +1,9 @@
+Column name,Description,Units
+id,Video game id on 'games' endpoint at IGDB database,Integer
+name,Name of the video game,String
+platform,Platfrom on which the videogame was released,String
+release_date,Release date,Datetime
+genre,Genre of the videogame,String
+category,Type of the product,String
+game_modes,Available game modes,String
+total_rating,User's rating (0-100),Float
